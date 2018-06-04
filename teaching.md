@@ -1,3 +1,8 @@
-## A New Post
+---
+layout: page
+title: Teaching
+---
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+The courses I'm teaching are:
+* [Course 1](/teaching/course1/)
+* [Course 2](/teaching/course2/)
