@@ -2,11 +2,15 @@
 layout: page
 title: About
 permalink: /
+published: true
 ---
 
 <p class="message">
   Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
 </p>
+
+![me.jpg]({{site.baseurl}}/public/images/me.jpg)
+
 
 \\[c = \sqrt{a^2 + b^2}\\]
 
